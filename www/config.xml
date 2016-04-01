@@ -7,10 +7,10 @@
         version   = "1.1.0">
 
 
-    <name>Matrix</name>
+    <name>Calculator</name>
 
     <description>
-        This is a simple 3x3 matrix.
+        This is a simple calculator made by Akarsh Ashok.
     </description>
 
     
